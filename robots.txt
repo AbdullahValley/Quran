@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://quran.futurevalley.bd/sitemap.xml
